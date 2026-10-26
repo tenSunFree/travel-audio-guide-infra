@@ -1,2 +1,2 @@
 # travel-audio-guide-infra
-Infrastructure and deployment platform for the travel audio guide system, provisioning GCP resources with Terraform across staging and production environments, including Cloud Run, Cloud SQL, IAM, Secret Manager, and monitoring.
+Production infrastructure, observability, and reliability platform for the Travel Audio Guide system: Terraform-managed GCP, CI/CD, SLO-based alerting, runbooks, load testing, and disaster recovery.
